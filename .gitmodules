@@ -1,0 +1,9 @@
+[submodule "mahimahi"]
+	path = mahimahi
+	url = https://github.com/harrietc070813/mahimahi
+[submodule "genericCC"]
+	path = genericCC
+	url = https://github.com/harrietc070813/genericCC
+[submodule "cross-traffic-attack"]
+	path = cross-traffic-attack
+	url = https://github.com/sekaiwazankoku/copaCrossTrafficAttack
