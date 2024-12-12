@@ -9,4 +9,4 @@
 	url = https://github.com/sekaiwazankoku/copaCrossTrafficAttack
 [submodule "attack-scripts"]
 	path = attack-scripts
-	url = https://github.com/sekaiwazankoku/attack-scripts
+	url = https://github.com/sekaiwazankoku/attack-scripts.git
